@@ -1,0 +1,13 @@
+Ctrl + 1 : Format Cell
+
+Ctrl + T : make sheet to table
+
+Ctrl + Shift + left/right/down arrow : select whole column or row
+
+Alt + N + V + T : create Pivot Table
+
+Ctrl + Home : go to first row
+
+Ctrl + right arrow : go to last column 
+
+Ctrl + grab a sheet by left click and move it : duplicate a sheet
